@@ -1,0 +1,23 @@
+{
+  "gift": {
+    "keywords": ["🎁", "gift", "airdrop", "claim now"],
+    "thread_id": 1265
+  },
+  "buy": {
+    "keywords": ["buy alert", "shhht/ton buy$", "purchase", "bought"],
+    "thread_id": 1354
+  },
+  "trending": {
+    "keywords": ["trending", "hot", "shhhtoshi trending", "buzz"],
+    "thread_id": 1298
+  },
+  "discussion": {
+    "keywords": ["discussion", "talk", "shhhtoshi discussion", "opinions"],
+    "thread_id": 1228
+  },
+  "announcement": {
+  "keywords": ["📢", "📣", "announce", "announcement"],
+  "thread_id": 1381
+}
+
+}
