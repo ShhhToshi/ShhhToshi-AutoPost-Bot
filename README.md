@@ -4,7 +4,8 @@ An open-source Telegram bot that automatically forwards messages to categorized 
 
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 ![License](https://img.shields.io/github/license/Zeeyan05/shhhtoshi-auto-post-bot)
-![Made with ❤ by Exotic Co.](https://img.shields.io/badge/Made%20by-Exotic%20Co.-blue)
+[![Made by @ExoticCo_BDM](https://img.shields.io/badge/Made%20by-@ExoticCo__BDM-blue?style=flat-square)](https://t.me/ExoticCo_BDM)
+
 
 ## 🔧 Features
 
@@ -40,3 +41,7 @@ node index.js
 ## 📜 License
 
 This project is licensed under the MIT License.
+---
+
+> 💼 Built & maintained by [@ExoticCo_BDM](https://t.me/ExoticCo_BDM)
+
