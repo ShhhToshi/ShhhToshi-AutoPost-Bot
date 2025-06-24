@@ -4,7 +4,7 @@ An open-source Telegram bot that automatically forwards messages to categorized 
 
 ![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
 ![License](https://img.shields.io/github/license/Zeeyan05/shhhtoshi-auto-post-bot)
-[![Made by @ExoticCo_BDM](https://img.shields.io/badge/Made%20by-@ExoticCo__BDM-blue?style=flat-square)](https://t.me/ExoticCo_BDM)
+
 
 
 ## 🔧 Features
@@ -19,7 +19,7 @@ An open-source Telegram bot that automatically forwards messages to categorized 
 
 ### Clone & Install
 ```bash
-git clone https://github.com/Zeeyan05/shhhtoshi-auto-post-bot.git
+git clone https://github.com/ShhhToshi/ShhhToshi-AutoPost-Bot.git
 cd shhhtoshi-auto-post-bot
 npm install
 ```
@@ -43,5 +43,5 @@ node index.js
 This project is licensed under the MIT License.
 ---
 
-> 💼 Built & maintained by [@ExoticCo_BDM](https://t.me/ExoticCo_BDM)
+
 
